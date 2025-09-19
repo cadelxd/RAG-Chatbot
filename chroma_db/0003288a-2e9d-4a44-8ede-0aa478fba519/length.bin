@@ -1,0 +1,6 @@
+Support Vector Machines
+• This model is similar to logistic regression in that it is driven by a linear function
+wTx+b. Unlike logistic regression, the support vector machine does not provide
+probabilities, but only outputs a class identity.
+• The SVM predicts that the positive class is present when wTx+b is positive.
+Likewise, it predicts that the negative class is present when wTx+b is negat

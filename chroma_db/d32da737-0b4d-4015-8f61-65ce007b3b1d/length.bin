@@ -1,0 +1,13 @@
+Learning Rate Behavior
+Too Small η
+- Very slow learning.
+- Training takes a long time to converge (to reach 
+an optimal solution.)
+- Loss decreases gradually.
+- Might get stuck in local minima.
+Optimal η - Steady, efficient convergence.
+- Reaches the minimum smoothly.
+Too Large η
+- Overshoots the minimum.
+- May never settle — oscillates around the minimum.
+- Can even diverge (loss gets worse)

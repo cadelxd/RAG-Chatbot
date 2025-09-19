@@ -1,0 +1,7 @@
+django 
+djangorestframework 
+google-generativeai 
+pypdf 
+chromadb 
+langchain-community 
+tiktoken
